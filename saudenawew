@@ -65,7 +65,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">Edvaldo Gomes, 19</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p>A praticas física traz benefícios para nós:
+    <p>A pratica física traz benefícios para nós:
     <h3 class="w3-padding-16 w3-text-light-grey"></h3>
     <p class="w3-wide">Saúde física</p>
     <div class="w3-white">
