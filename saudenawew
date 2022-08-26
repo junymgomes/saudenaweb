@@ -148,14 +148,20 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </div>
     
     <!-- Testimonials -->
-    <h3 class="w3-padding-24 w3-text-light-grey">Avaliação</h3>  
-    <img src="https://img.freepik.com/fotos-gratis/retrato-de-uma-jovem-bonita-em-pe-na-parede-cinza_231208-10760.jpg?size=626&ext=jpg&ga=GA1.2.1552606851.1658452993" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Vanessa Mares.</span> PROFESSORA</p>
+    <h3 class="w3-padding-24 w3-text-light-grey">Avaliação de internautas</h3>  
+    <img src="https://pps.whatsapp.net/v/t61.24694-24/207442757_2587177861415045_3805678031658174828_n.jpg?ccb=11-4&oh=01_AVzRprubscG9Yven1DYbfoT41tlMice7K151Hw8Por7Vmw&oe=6315876A" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">LUIZ H.</span> DESENVOLVEDOR WEB.</p>
     <p>Consegui melhorar meu rendimento esportivo, seguindo dicas desse projeto, muito bacana!</p><br>
     
-    <img src="/w3images/avatar_g2.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Rebecca Gomes.</span> MODELO.</p>
+    <img src="https://pps.whatsapp.net/v/t61.24694-24/267565060_331498318943463_7747705494462989494_n.jpg?ccb=11-4&oh=01_AVzGSZKsg0rT2jPlrv49Kda_M5lDVWX3WAQrx6SVBTyGVQ&oe=6316D90D" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">MARKYS F.</span> GERENTE DE PROJETOS.</p>
     <p>Graças a esse projeto minha saúde melhorou bastante! Saí do Sedentarismo :) .</p>
+	
+	<br/>
+	
+	<img src="https://pps.whatsapp.net/v/t61.24694-24/212586566_407796807131701_3252832471804998518_n.jpg?ccb=11-4&oh=01_AVziYiH7ylLrRETyBGSLYliiFfQSLl_HI5OE2v6dTP0Jqg&oe=6317DDBE" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">JUAREZ R.</span> GERENTE DE BASE DE DADOS.</p>
+    <p>Dicas importantes que me auxiliaram fisicamente .</p>
   <!-- End About Section -->
   </div>
   
@@ -187,6 +193,14 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
     <h2 class="w3-text-light-grey">Envie um email ao desenvolvedor:<br/> Edvaldo Gomes, 19</h2>
     <hr style="width:200px" class="w3-opacity">
+	<br/>
+	<img src="https://pps.whatsapp.net/v/t61.24694-24/300977062_120813580709132_5733329321964332294_n.jpg?ccb=11-4&oh=01_AVzK_Do_EocNL5odMTEJYFyalDW1Y-NCqaUFkKk4pRR2eg&oe=631937F7" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:120px">
+	<br/>
+
+    <p><span class="w3-large w3-margin-right"></span> EDUCADOR FÍSICO E WEB DESIGN</p>
+	<br/>
+	<br/>
+	<br/>
 
     <div class="w3-section">
       <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Araçuaí-MG, Brasil</p>
@@ -211,19 +225,17 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   
     <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-    <i class="fa fa-facebook-official w3-hover-opacity"><a href="https://www.facebook.com/JunymGomess" target="_blank" class="w3-hover-text-green">/junymgomes</a></i>
+    <i class="fa fa-facebook-official w3-hover-opacity"><a href="https://www.facebook.com/JunymGomess" target="_blank" class="w3-text-blue">/junymgomes</a></i>
 	<br />
-    <i class="fa fa-instagram w3-hover-opacity"><a href="https://instagram.com/junymgomes" target="_blank" class="w3-hover-text-green"> @junymgomes</a></i>
+    <i class="fa fa-instagram w3-hover-opacity"><a href="https://instagram.com/junymgomes" target="_blank" class="w3-text-orange"> @junymgomes</a></i>
 	<br />
-    <i class="fa fa-snapchat w3-hover-opacity"><a href="https://t.snapchat.com/DkciWPaj" target="_blank" class="w3-hover-text-green"> junymgomes</a></i>
+    <i class="fa fa-snapchat w3-hover-opacity"><a href="https://t.snapchat.com/DkciWPaj" target="_blank" class="w3-text-yellow"> junymgomes</a></i>
 	<br />
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"><a href="#" target="_blank" class="w3-text-ciano"> /junymgomes</a></i>
 	<br />
-    <i class="fa fa-twitter w3-hover-opacity"><a href="#" target="_blank" class="w3-hover-text-green"> /junymgomes</a></i>
+    <i class="fa fa-linkedin w3-hover-opacity"><a href="https://www.linkedin.com/in/edvaldo-gomes-pereira-j%C3%BAnior-7203aa218" target="_blank" class="w3-text-darkblue">Edvaldo Gomes Pereira Júnior</a></i>
 	<br />
-    <i class="fa fa-linkedin w3-hover-opacity"><a href="https://www.linkedin.com/in/edvaldo-gomes-pereira-j%C3%BAnior-7203aa218" target="_blank" class="w3-hover-text-green">Edvaldo Gomes Pereira Júnior</a></i>
-	<br />
-    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">Edvaldo Gomes</a></p>
+    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-text-green">Edvaldo Gomes</a></p>
   <!-- End footer -->
   </footer>
 
