@@ -56,8 +56,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small">WEB</span> SAÚDE | PRÁTICAS FÍSICAS!</h1>
+    <h1 class="w3-jumbo"><span class="w3-hide-small">WEB</span> SAÚDE | PRÁTICAS FÍSICAS</h1>
     <p>Projeto para auxiliar pessoas com práticas esportivas.</p>
+	<p>(Edição de template, design com uso de CSS, e imagens de alunos do TADS, utilizadas sob autorização dos mesmos.)</p>
     <img src="https://wallpapercave.com/wp/wp3173151.jpg" alt="boy" class="w3-image" width="full" height="full">
   </header>
 
@@ -71,6 +72,19 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	3- Combate doenças crônicas.<br />
 	4- Melhora a saúde mental.<br />
 	5- Controle de peso corporal. </h3>
+	<br/>
+	<h3 style="text-indent: 30px;">O sedentarismo é cada vez mais presentes nos dias atuais, é a diminuição ou ausência da prática de atividade física, caracterizando um gasto calórico reduzido. Ele é intensificado pelos hábitos da vida moderna, como passar muito tempo dentro de carros, a comodidade de escadas rolantes e elevadores e o tempo que gastamos jogados no sofá assistindo à TV enquanto comemos alguma besteira. Além disso, a rotina de grande parte da população, que trabalha em escritórios, também contribui para esse hábito prejudicial à saúde.</h3>
+	<br/>
+	<br/>
+	
+	<h3>As causas do sedentarismo são diversas, mas estão todas relacionadas a dietas pouco balanceadas e à falta de exercícios físicos. O sedentarismo não é apenas caracterizado pela falta de atividades esportivas, mas também pela falta de atividades simples do dia a dia, como a caminhada até o trabalho, cumprimento de tarefas domésticas, passeios no parque e afins.</h3>
+	<br/>
+	<h3>Um dos aspectos que não pode ser esquecido, em função de sua importância para a vida em sociedade, é a deterioração da forma do corpo conseqüente ao sedentarismo. A falta de exercícios leva à diminuição progressiva da massa muscular e à tendência para o acúmulo de gordura.<h3/>
+	<br/>
+
+	<h3 style="text-indent: 30px;">Por essas e outras devemos ter consentimento, e adaptar a praticas e exercícios físicos, ela contribui para o bem-estar físico, saúde mental, bom funcionamento do coração, circulação sanguínea, da respiração e até mesmo dos hormônios. Mesmo sabendo disso, nem sempre é fácil conseguir tempo ou mesmo motivação para manter uma prática regular de exercícios físicos, ao menos 3 vezes na semana.</h3>
+	<br/>
+	
     <h3 class="w3-padding-16 w3-text-light-grey"></h3>
     <p class="w3-wide">Saúde física</p>
     <div class="w3-white">
@@ -88,15 +102,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
       <div class="w3-quarter w3-section">
         <span class="w3-xlarge">11+</span><br>
-        Partners
+        Colaboradores com projeto
       </div>
       <div class="w3-quarter w3-section">
         <span class="w3-xlarge">55+</span><br>
-        Projects Done
+        Dicas e hábitos
       </div>
       <div class="w3-quarter w3-section">
         <span class="w3-xlarge">89+</span><br>
-        Happy Clients
+        Clientes Felizes
       </div>
       <div class="w3-quarter w3-section">
         <span class="w3-xlarge">SUPORTE</span><br>
@@ -155,7 +169,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     
     <img src="https://pps.whatsapp.net/v/t61.24694-24/267565060_331498318943463_7747705494462989494_n.jpg?ccb=11-4&oh=01_AVzGSZKsg0rT2jPlrv49Kda_M5lDVWX3WAQrx6SVBTyGVQ&oe=6316D90D" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">MARKYS F.</span> GERENTE DE PROJETOS.</p>
-    <p>Graças a esse projeto minha saúde melhorou bastante! Saí do Sedentarismo :) .</p>
+    <p>Me auxiliou bastante para manter um hábito de vida longe do sedentarismo.</p>
+	<br/>
+	<img src="https://pps.whatsapp.net/v/t61.24694-24/55529767_942945205903480_5231928095388205056_n.jpg?ccb=11-4&oh=01_AVx-AdCT9C7rUoBuGxD5PsSEYzvoZBwQtguaY_Y_RVyMaQ&oe=631AA5C8" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">LUCAS C.</span> SEGURANÇA DE SOFTWARE</p>
+    <p>Excelente conteúdo!</p>
+	
 	
 	<br/>
 	
@@ -197,7 +216,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	<img src="https://pps.whatsapp.net/v/t61.24694-24/300977062_120813580709132_5733329321964332294_n.jpg?ccb=11-4&oh=01_AVzK_Do_EocNL5odMTEJYFyalDW1Y-NCqaUFkKk4pRR2eg&oe=631937F7" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:120px">
 	<br/>
 
-    <p><span class="w3-large w3-margin-right"></span> EDUCADOR FÍSICO E WEB DESIGN</p>
+    <p><span class="w3-large w3-margin-right"></span> EDUCADOR FÍSICO</p>
 	<br/>
 	<br/>
 	<br/>
@@ -227,15 +246,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
     <i class="fa fa-facebook-official w3-hover-opacity"><a href="https://www.facebook.com/JunymGomess" target="_blank" class="w3-text-blue">/junymgomes</a></i>
 	<br />
-    <i class="fa fa-instagram w3-hover-opacity"><a href="https://instagram.com/junymgomes" target="_blank" class="w3-text-orange"> @junymgomes</a></i>
+    <i class="fa fa-instagram w3-hover-opacity"><a href="https://instagram.com/junymgomes" target="_blank" class="w3-text-pink"> @junymgomes</a></i>
 	<br />
     <i class="fa fa-snapchat w3-hover-opacity"><a href="https://t.snapchat.com/DkciWPaj" target="_blank" class="w3-text-yellow"> junymgomes</a></i>
 	<br />
-    <i class="fa fa-twitter w3-hover-opacity"><a href="#" target="_blank" class="w3-text-ciano"> /junymgomes</a></i>
-	<br />
     <i class="fa fa-linkedin w3-hover-opacity"><a href="https://www.linkedin.com/in/edvaldo-gomes-pereira-j%C3%BAnior-7203aa218" target="_blank" class="w3-text-darkblue">Edvaldo Gomes Pereira Júnior</a></i>
 	<br />
-    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-text-green">Edvaldo Gomes</a></p>
+    <p class="w3-medium">Powered by <a href=" http://lattes.cnpq.br/1657194484693885" target="_blank" class="w3-text-green">Edvaldo Gomes</a></p>
   <!-- End footer -->
   </footer>
 
